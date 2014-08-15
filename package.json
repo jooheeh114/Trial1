@@ -1,0 +1,24 @@
+{
+  "name": "Trial1",
+  "version": "0.0.0",
+  "description": "Trial1\r ======",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.8.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jooheeh114/Trial1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jooheeh114/Trial1/issues"
+  },
+  "homepage": "https://github.com/jooheeh114/Trial1"
+}
